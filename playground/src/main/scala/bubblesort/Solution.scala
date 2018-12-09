@@ -24,10 +24,10 @@ object Solution {
 
   def main(args: Array[String]) {
     val sc = scala.io.StdIn
-    var n = sc.readInt();
-    var a = new Array[Int](n);
+    var n = sc.readInt()
+    var a = new Array[Int](n)
     for (a_i <- 0 until n - 1) {
-      a(a_i) = sc.readInt();
+      a(a_i) = sc.readInt()
     }
 
     // Write Your Code Here
