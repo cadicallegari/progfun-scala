@@ -1,8 +1,5 @@
 package nestedlogic
 
-import java.time.{LocalDate, ZoneId}
-import java.text.SimpleDateFormat
-
 object Solution {
 
   val MaxFine = 10000
